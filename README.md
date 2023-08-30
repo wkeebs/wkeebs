@@ -4,7 +4,7 @@
 - 🕸 Currently experimenting with web technologies alongside my degree.
 
 # ✍️ My Projects
-Check out a preview for some of my small projects here (more to come... I promise!):
+Preview for some of my small projects here (more to come... I promise!):
 - [Rock-Paper-Scissors](https://wkeebs.github.io/rock-paper-scissors/)
 - [Calculator](https://wkeebs.github.io/calculator/)
 - [Etch A Sketch](https://wkeebs.github.io/etch-a-sketchpad/)
