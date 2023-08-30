@@ -6,5 +6,6 @@ Hi, I'm Will!
 
 # ✍️ My Projects
 You can check out some of my small projects here (more to come... I promise!):
-- FRP Tetris
 - [Rock-Paper-Scissors](https://wkeebs.github.io/rock-paper-scissors/)
+- [Calculator](https://wkeebs.github.io/calculator/)
+- [Etch A Sketch](https://wkeebs.github.io/etch-a-sketchpad/)
