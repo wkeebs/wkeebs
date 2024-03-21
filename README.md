@@ -4,7 +4,8 @@
 - 🕸 Currently experimenting with web technologies alongside my degree.
 
 # ✍ Projects
-Preview some of my small projects here:
+Preview some of my web projects here:
+- [Functional Reactive Programming (FRP) Tetris](https://wkeebs.github.io/frp-tetris/)
 - [Rock-Paper-Scissors](https://wkeebs.github.io/rock-paper-scissors/)
 - [Calculator](https://wkeebs.github.io/calculator/)
 - [Etch A Sketch](https://wkeebs.github.io/etch-a-sketchpad/)
