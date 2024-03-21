@@ -5,7 +5,7 @@
 
 # ✍ Projects
 Preview some of my web projects here:
-- [Functional Reactive Programming (FRP) Tetris](https://wkeebs.github.io/frp-tetris/)
+- [Functional Reactive Programming (FRP) Tetris](https://main--frp-tetris.netlify.app/)
 - [Rock-Paper-Scissors](https://wkeebs.github.io/rock-paper-scissors/)
 - [Calculator](https://wkeebs.github.io/calculator/)
 - [Etch A Sketch](https://wkeebs.github.io/etch-a-sketchpad/)
